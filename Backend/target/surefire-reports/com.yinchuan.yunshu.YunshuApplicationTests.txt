@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.yinchuan.yunshu.YunshuApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.293 s - in com.yinchuan.yunshu.YunshuApplicationTests

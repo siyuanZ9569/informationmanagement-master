@@ -1,0 +1,13 @@
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/YunshuApplication.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/config/Order.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/controller/UserController.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/service/OrderService.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/service/UserService.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/config/User.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/service/StorageService.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/controller/StorageController.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/repository/OrderRepository.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/controller/OrderController.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/repository/UserRepository.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/repository/StorageRepository.java
+/Users/zengsiyuan/myGit/informationmanagement/Backend/src/main/java/com/yinchuan/yunshu/config/Storage.java
